@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5386e59-b55b-4780-9d33-10170ccf17d8" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Love.html" afterPath="$PROJECT_DIR$/Love.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,8 +21,8 @@
       <file leaf-file-name="Love.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Love.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="48" lean-forward="true" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+            <state relative-caret-position="2408">
+              <caret line="400" column="208" lean-forward="true" selection-start-line="400" selection-start-column="208" selection-end-line="400" selection-end-column="208" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -194,12 +195,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1495181511051</updated>
-      <workItem from="1495181512383" duration="10155000" />
+      <workItem from="1495181512383" duration="11128000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10155000" />
+    <option name="totallyTimeSpent" value="11128000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1267" height="708" extended-state="0" />
@@ -236,8 +237,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Love.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="48" lean-forward="true" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+        <state relative-caret-position="2408">
+          <caret line="400" column="208" lean-forward="true" selection-start-line="400" selection-start-column="208" selection-end-line="400" selection-end-column="208" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
