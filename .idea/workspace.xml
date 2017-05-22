@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5386e59-b55b-4780-9d33-10170ccf17d8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Joan Baez - Diamonds And Rust.mp3" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Love.html" afterPath="$PROJECT_DIR$/Love.html" />
-    </list>
+    <list default="true" id="b5386e59-b55b-4780-9d33-10170ccf17d8" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -21,8 +18,8 @@
       <file leaf-file-name="Love.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Love.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="176">
+              <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -216,12 +213,12 @@
       <workItem from="1495181512383" duration="12515000" />
       <workItem from="1495249363978" duration="214000" />
       <workItem from="1495249732717" duration="1651000" />
-      <workItem from="1495429709959" duration="284000" />
+      <workItem from="1495429709959" duration="342000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14664000" />
+    <option name="totallyTimeSpent" value="14722000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1267" height="708" extended-state="0" />
@@ -326,8 +323,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Love.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="176">
+          <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
